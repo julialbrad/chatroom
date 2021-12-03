@@ -104,7 +104,7 @@ function askQuestion(query) {
   );
 }
 //variable for port
-const port = 80;
+const port = 3000;
 
 //where the server is listening for the port
 server.listen(port, async () => {
