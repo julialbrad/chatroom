@@ -1,6 +1,9 @@
 {
   "name": "se3313-project",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "",
   "main": "/server/index.js",
   "scripts": {
